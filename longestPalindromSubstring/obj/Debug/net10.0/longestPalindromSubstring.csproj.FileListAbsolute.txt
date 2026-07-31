@@ -1,0 +1,14 @@
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\obj\Debug\net10.0\longestPalindromSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\obj\Debug\net10.0\longestPalindromSubstring.AssemblyInfoInputs.cache
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\obj\Debug\net10.0\longestPalindromSubstring.AssemblyInfo.cs
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\obj\Debug\net10.0\longestPalindromSubstring.csproj.CoreCompileInputs.cache
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\bin\Debug\net10.0\longestPalindromSubstring.exe
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\bin\Debug\net10.0\longestPalindromSubstring.deps.json
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\bin\Debug\net10.0\longestPalindromSubstring.runtimeconfig.json
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\bin\Debug\net10.0\longestPalindromSubstring.dll
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\bin\Debug\net10.0\longestPalindromSubstring.pdb
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\obj\Debug\net10.0\longestPalindromSubstring.dll
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\obj\Debug\net10.0\refint\longestPalindromSubstring.dll
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\obj\Debug\net10.0\longestPalindromSubstring.pdb
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\obj\Debug\net10.0\longestPalindromSubstring.genruntimeconfig.cache
+C:\Users\abima\OneDrive\Documentos\Codigos\LeetCode\longestPalindromSubstring\obj\Debug\net10.0\ref\longestPalindromSubstring.dll
